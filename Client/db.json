@@ -1,0 +1,138 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "description": "This is the product 1 description The product is realy good",
+      "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+      "price": 299
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "description": "This is the product 2 description The product is realy good",
+      "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+      "price": 250
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "description": "This is the product 3 description The product is realy good",
+      "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+      "price": 150
+    },
+    {
+      "id": "4",
+      "name": "Product 4",
+      "description": "This is the product 4 description The product is realy good",
+      "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+      "price": 455
+    },
+    {
+      "id": "5",
+      "name": "Product 5",
+      "description": "This is the product 5 description The product is realy good",
+      "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+      "price": 245
+    },
+    {
+      "id": "6",
+      "name": "Product 6",
+      "description": "This is the product 6 description The product is realy good",
+      "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+      "price": 100
+    }
+  ],
+  "cart": [
+    {
+      "id": "c593",
+      "product": {
+        "id": "3",
+        "name": "Product 3",
+        "description": "This is the product 3 description The product is realy good",
+        "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+        "price": 150
+      }
+    },
+    {
+      "id": "ebfa",
+      "product": {
+        "id": "3",
+        "name": "Product 3",
+        "description": "This is the product 3 description The product is realy good",
+        "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+        "price": 150
+      }
+    },
+    {
+      "id": "a0a0",
+      "product": {
+        "id": "3",
+        "name": "Product 3",
+        "description": "This is the product 3 description The product is realy good",
+        "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+        "price": 150
+      }
+    },
+    {
+      "id": "3141",
+      "product": {
+        "id": "3",
+        "name": "Product 3",
+        "description": "This is the product 3 description The product is realy good",
+        "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+        "price": 150
+      }
+    },
+    {
+      "id": "8c1b",
+      "product": {
+        "id": "2",
+        "name": "Product 2",
+        "description": "This is the product 2 description The product is realy good",
+        "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+        "price": 250
+      }
+    },
+    {
+      "id": "aa04",
+      "product": {
+        "id": "2",
+        "name": "Product 2",
+        "description": "This is the product 2 description The product is realy good",
+        "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+        "price": 250
+      }
+    },
+    {
+      "id": "828b",
+      "product": {
+        "id": "2",
+        "name": "Product 2",
+        "description": "This is the product 2 description The product is realy good",
+        "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+        "price": 250
+      }
+    },
+    {
+      "id": "7d57",
+      "product": {
+        "id": "3",
+        "name": "Product 3",
+        "description": "This is the product 3 description The product is realy good",
+        "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+        "price": 150
+      }
+    },
+    {
+      "id": "e406",
+      "product": {
+        "id": "3",
+        "name": "Product 3",
+        "description": "This is the product 3 description The product is realy good",
+        "imageUrl": "https://e7.pngegg.com/pngimages/10/972/png-clipart-brown-gray-nicolls-cricket-bat-gray-nicolls-cricket-bat-batting-pads-cricket-bat-pic-sports-equipment-sports.png",
+        "price": 150
+      }
+    }
+  ]
+}
